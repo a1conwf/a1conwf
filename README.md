@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
-<h3 align="center">A passionate frontend developer from Estonia</h3>
+<h3 align="center">A passionate front-end developer from Estonia</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coder-gif" width="500">
 </div>
-
-<h2 align="left">👨🏻‍💻&nbsp;About Me:</h2>
-
-- 🌱 I’m currently learning **TypeScript**, **Next.js**
-
-- 💬 Ask me about **anything**
 
 <h2>🛠️&nbsp;Languages and Tools:</h2>
 <p align="left">
@@ -33,8 +27,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a1conwf&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1conwf&theme=noctis_minimus&layout=compact" />
 </a>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
