@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
-<h3 align="center">A passionate front-end developer from Estonia</h3>
+<h3 align="center">A passionate frontend developer from Estonia</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coder-gif" width="500">
